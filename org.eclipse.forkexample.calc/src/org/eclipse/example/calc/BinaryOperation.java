@@ -12,6 +12,9 @@ package org.eclipse.example.calc;
  * Binary operation interface
  */
 public interface BinaryOperation extends Operation {
+    
+    // New comment
+    
 	/**
 	 * @param arg1 first parameter
 	 * @param arg2 second parameter
